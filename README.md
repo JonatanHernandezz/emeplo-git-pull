@@ -1,2 +1,2 @@
-# emeplo-git-pull
+# Repositorio para practicar git pyll
 repositorio para comando git pull
